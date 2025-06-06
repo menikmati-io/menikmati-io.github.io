@@ -133,7 +133,7 @@ comments:
 assets:
   self_host:
     enabled: true
-    env: # [development | production]
+    # env: # [development | production]
 
 pwa:
   enabled: true # The option for PWA feature (installable)
