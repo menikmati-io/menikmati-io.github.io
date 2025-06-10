@@ -2,12 +2,15 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 1
+toc: true
 ---
 
 
 Fort de plus de 15 années d'expertise en accompagnement de clients grands comptes français et internationaux en environnements Microsoft avec notamment 9 ans sur Azure spécifiquement, voici une liste non exhaustive des services que je peux apporter à votre entreprise.
 
 # Microsoft Azure Architecture
+
+Que ce soit en intégrant vos équipes sur des longues durées ou pour des projets plus cours, vous pouvez me contacter par [mail](mailto:hi\@menikmati.io)
 
 ## Landing Zones
 
@@ -35,7 +38,7 @@ Car l'argent est le nerf de la guerre, je vous accompagne dans la mise en place 
 
 Si vous souhaitez développer ou refactoriser une application en intégrant les dernières bonnes pratiques en terme de scalabilité, intelligence artificelle et modularité, mon expérience dans ces opérations vous permettra d'éviter les accrocs mais également de dépasser vos attentes pour que vos développeurs et vos clients bénéficient des dernières innovations. Que ce soit dans un contexte micro services ou plus globalement des applications cloud native, je serai là pour vous aider.
 
-# DevOps
+# Dev(Sec)Ops
 
 ## Scripting
 
@@ -45,3 +48,4 @@ Vous souhaitez automatiser vos tâches dans un environnement Microsoft, mais pas
 
 L'utilisation de Github ou d'Azure DevOps étant mon quotidien, vos équipes IT pourront bénéficier de mon savoir faire pour mettre en place les meilleurs pratiques de déploiement continue et de gestion de vos déploiements d'applications et/ou d'infrastructure dans le cloud.
 
+Pour plus de détails, je suis disponible pour toutes vos [questions](mailto:hi\@menikmati.io).
