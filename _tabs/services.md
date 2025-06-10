@@ -10,7 +10,7 @@ Fort de plus de 15 années d'expertise en accompagnement de clients grands compt
 
 # Microsoft Azure Architecture
 
-Que ce soit en intégrant vos équipes sur des longues durées ou pour des projets plus cours, vous pouvez me contacter par [mail](mailto:hi\@menikmati.io)
+Que ce soit en intégrant vos équipes sur des longues durées ou pour des projets plus cours, vous pouvez me contacter par [mail](mailto:hi@menikmati.io)
 
 ## Landing Zones
 
@@ -48,4 +48,4 @@ Vous souhaitez automatiser vos tâches dans un environnement Microsoft, mais pas
 
 L'utilisation de Github ou d'Azure DevOps étant mon quotidien, vos équipes IT pourront bénéficier de mon savoir faire pour mettre en place les meilleurs pratiques de déploiement continue et de gestion de vos déploiements d'applications et/ou d'infrastructure dans le cloud.
 
-Pour plus de détails, je suis disponible pour toutes vos [questions](mailto:hi\@menikmati.io).
+Pour plus de détails, je suis disponible pour toutes vos [questions](mailto:hi@menikmati.io).
